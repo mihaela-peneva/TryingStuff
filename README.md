@@ -1,2 +1,2 @@
 # TryingStuff
-Trying the tutorial
+Trying the tutorial or maybe smth else
